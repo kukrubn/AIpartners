@@ -1,0 +1,2 @@
+# AIpartners
+基于黑马程序员的《黑马程序员Python+AI零基础入门到大神全套视频课程，覆盖Python核心语法、AI应用、数据分析及Web应用等python实战项目开发全流程》中AI伴侣项目的改进
